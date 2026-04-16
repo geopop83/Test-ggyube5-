@@ -85,6 +85,8 @@ body::before {
 }
 
 .logo-sub {
+  display: block;
+  margin-top: 10px;
   font-family: 'Space Mono', monospace;
   font-size: 9px;
   letter-spacing: 0.3em;

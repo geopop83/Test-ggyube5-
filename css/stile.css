@@ -74,7 +74,7 @@ body::before {
 }
 
 .ombra-pop::after {
-  content: 'POP'; 
+  content: 'POPlitica'; 
   font-family: 'Oswald', sans-serif;
   position: absolute;
   left: 3px;

@@ -229,7 +229,7 @@ function renderHome(pushState = true) {
       : `<div class="mini-globe"></div>`;
 
     colLeft.innerHTML = `
-      <div class="prev-numero" onclick="renderArchivio(null, null, ${numeroPrecedente.numero})">
+      <div class="prev-numero" onclick="window.location.href='archivio/numero-${numeroPrecedente.numero}/index.html'">
         <div class="prev-numero-label">◀ Nel numero precedente</div>
         <div class="prev-numero-visual">
           <img src="${imgSrc}" alt="Copertina N°${numeroPrecedente.numero}"

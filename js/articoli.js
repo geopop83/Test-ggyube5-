@@ -126,7 +126,7 @@ const NUMERI = [
         sottocategoria: 'Annunci',
         autore: 'la-redazione',
         titolo: 'A.A.A. Cercasi Persone da ogni <i>checkpoint</i>!',
-        anteprima: 'Chiamata alle menti, ai sensi, ai cuori. Geo-POPlitica è un progetto collettivo. Cerchiamo scrittori, fotografi, disegnatori, viaggiatori — vogliamo creare una rete di persone che ne condividono l\'urgenza e hanno voglia di mostrare il proprio sguardo sul mondo.',
+        anteprima: 'Chiamata alle menti, ai sensi, ai cuori.',
         testo: `<p class="art-occhiello">Chiamata alle menti, ai sensi, ai cuori.</p>
 
 <p>Geo-POPlitica nasce come progetto collettivo. Vogliamo creare una rete di persone che ne condividono l'urgenza e hanno voglia di mostrare il proprio sguardo sul mondo.</p>
@@ -357,7 +357,7 @@ Racconti in prosa, reportage fotografici, atmosfere. Puoi portarci in un posto c
         sottocategoria: 'Editoriale',
         autore: 'la-redazione',
         titolo: 'La stessa radice. Due fiori diversissimi.',
-        anteprima: 'Questo numero esplora Cina e Taiwan: due culture che condividono la stessa origine e l\'hanno fatta fiorire in direzioni opposte. Non chi ha ragione — ma cosa ha prodotto questa tensione in termini di arte, musica, identità.',
+        anteprima: 'Cina e Taiwan: due culture che condividono la stessa origine e l\'hanno fatta fiorire in direzioni opposte. Non chi ha ragione — ma cosa ha prodotto questa tensione.',
         testo: `<p class="art-occhiello">Cina e Taiwan: due culture che condividono la stessa origine e l'hanno fatta fiorire in direzioni opposte. Non chi ha ragione — ma cosa ha prodotto questa tensione.</p>
 <p>Due caratteri. Una linea di mezzo. Un punto di luce al centro.</p>
 <p>中 — Zhōng. Il carattere della Cina. Letteralmente "paese di mezzo", "terra centrale". Un nome che dice tutto su come una civiltà vede se stessa nel mondo.</p>

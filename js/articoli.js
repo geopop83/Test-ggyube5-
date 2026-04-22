@@ -91,8 +91,7 @@ const NUMERI = [
     tema: 'chiaro',
     titoloCover: 'Il mondo non è mai stato così <em>complicato.</em><br>Né così interessante.',
     kickerCover: '◆ Copertina — Numero Uno',
-    descCover: 'Il nostro scopo è quello di mostrare la vasta gamma di sfumature del mondo alla luce degli eventi moderni - i ponti culturali tra i check point. Il tutto in una salsa "POPlitica" che ci contraddistingue.',
-    visualeCover: 'globo',
+    descCover: 'I ponti culturali tra i checkpoint. La nostra bussola per guardare il mondo senza smettere di viverlo.',
     tickerVoci: [
       'Arte come resistenza',
       'La moda di Teheran dopo le sanzioni',
@@ -339,7 +338,7 @@ Racconti in prosa, reportage fotografici, atmosfere. Puoi portarci in un posto c
     tema: 'scuro',
     titoloCover: 'La stessa radice.<br>Due fiori <em>diversissimi.</em>',
     kickerCover: '◆ Copertina — Numero Due',
-    descCover: 'Il nostro scopo è quello di mostrare la vasta gamma di sfumature del mondo alla luce degli eventi moderni - i ponti culturali tra i check point. Il tutto in una salsa "POPlitica" che ci contraddistingue.',
+    descCover: 'Cina e Taiwan: due culture che condividono la stessa origine e l\'hanno fatta fiorire in direzioni opposte. Non chi ha ragione — ma cosa ha prodotto questa tensione.',
     visualeCover: 'specchio',
     tickerVoci: [
       'Hanfu e identità',

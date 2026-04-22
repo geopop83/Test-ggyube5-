@@ -196,6 +196,7 @@ body::before{content:'';position:fixed;inset:0;background-image:url("data:image/
 .articolo-paese-label{font-size:10px;letter-spacing:0.15em;text-transform:uppercase;opacity:0.5;color:var(--ink)}
 .articolo-titolo{font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,3rem);line-height:1.15;font-weight:700;margin-bottom:24px;color:var(--ink)}
 .articolo-titolo em{font-style:italic;color:var(--accent)}
+.articolo-titolo i{font-style:italic}
 .articolo-divider{border:none;border-top:3px solid var(--ink);margin-bottom:32px}
 .articolo-body{font-family:'Playfair Display',serif;font-size:1.1rem;line-height:1.9;color:var(--ink)}
 .articolo-body p{margin-bottom:20px}

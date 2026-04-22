@@ -315,7 +315,7 @@ function tornaIndietroArticolo() {
     const numeroAttuale = NUMERI[NUMERI.length - 1];
     applicaTema(numeroAttuale.tema || 'chiaro');
     document.getElementById('page-home').style.display = 'block';
-    window.scrollTo(0, 0);
+    window.scrollTo({ top: 0, behavior: 'instant' });
   }
 }
 

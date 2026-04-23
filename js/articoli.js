@@ -128,7 +128,7 @@ const NUMERI = [
         anteprima: 'Chiamata alle menti, ai sensi, ai cuori.',
         testo: `<p class="art-occhiello">Chiamata alle menti, ai sensi, ai cuori.</p>
 
-<p>Geo-POPlitica nasce come progetto collettivo. Vogliamo creare una rete di persone che ne condividono l'urgenza e hanno voglia di mostrare il proprio sguardo sul mondo.</p>
+<p>Geo-POPlitica nasce come progetto collettivo. Cerchiamo persone che ne condividono l'urgenza e che amano scrivere, fotografare, disegnare, mostrare il proprio sguardo sul mondo.</p>
 
 <p>Parlaci un po' di te, condividi qualcosa di quello che fai tramite un link al tuo sito, blog o account social pubblico (non usare allegati), e raccontaci cosa ti piacerebbe realizzare.</p>
 

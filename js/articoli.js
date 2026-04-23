@@ -135,7 +135,8 @@ const NUMERI = [
 <p>Abbiamo quattro aree tematiche tra cui muoverci con comodità. Ad esempio:</p>
 
 <p><strong>1. Culture: patrimonio e nuove forme espressive.</strong><br>
-Dall'eredità delle grandi tradizioni artistico-culturali alle scene underground globali. Se hai visto qualcosa che ti ha colpito (un film, un concerto, una mostra) e sai perché conta, questo è il posto giusto.</p>
+Dall'eredità delle grandi tradizioni artistico-culturali alle scene underground globali.<br>
+Hai visto qualcosa che ti ha colpito (un film, un concerto, una mostra) e sai perché conta? Questo è il posto giusto.</p>
 
 <p><strong>2. Identità Umane: il volto.</strong><br>
 Ritratti d'autore, monografie, ma anche interviste. Chi i luoghi li abita, li sogna e ci lega a loro.</p>

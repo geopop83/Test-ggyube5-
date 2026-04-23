@@ -618,17 +618,3 @@ document.addEventListener('DOMContentLoaded', () => {
     else renderArchivio(archivioParam);
   }
 });
-
-// ── LIGHTBOX ──
-function apriLightbox(src) {
-  const overlay = document.createElement('div');
-  overlay.className = 'lightbox-overlay';
-  overlay.innerHTML = `<span class="lightbox-close">✕</span><img src="${src}" alt="">`;
-  overlay.addEventListener('click', () => overlay.remove());
-  document.body.appendChild(overlay);
-}
-
-// ── DISABILITA TASTO DESTRO SOLO SU IMMAGINI ──
-document.addEventListener('contextmenu', function(e) {
-  if (e.target.tagName === 'IMG') e.preventDefault();
-});

@@ -246,23 +246,14 @@ Racconti in prosa, reportage fotografici, atmosfere dal mondo. Puoi mescolare i 
 
 <p>L'aereo atterra a Maiquetía alle tre di pomeriggio, quando il caldo è già una presenza fisica. L'aeroporto Simon Bolívar è un brulichio di carrelli, valigie tirate con lo spago, bambini che dormono sulle spalle dei padri. Fuori, Caracas aspetta in fondo alla montagna.</p>
 
-<div class="r-foto-reale" onclick="apriLightbox('immagini/cuba-aeroporto.gif')">
-  <img src="immagini/cuba-aeroporto.gif" alt="Aeroporto Simon Bolívar, Caracas" class="r-foto-img">
-  <div class="r-foto-copyright">© Geo-POPlitica 2026</div>
-  <div class="r-foto-caption"><span>Aeroporto Simon Bolívar. L'ultimo volo prima del lockdown.</span><span>Foto: Geo-POPlitica</span></div>
-</div>
-
 <div class="r-foto-dx">
   <div class="r-testo">
     <p>La strada che scende verso la città è una delle più cinematografiche del continente — tunnel, curve cieche, il mare azzurro che scompare alle spalle mentre davanti emergono i blocchi grigi del barrio La Vega, abbarbicati alla collina come se la gravità fosse solo un consiglio.</p>
     <p>Il mio taxista si chiama Ramón. Guida da trent'anni. "Caracas è come un bolero," dice, "devi conoscerne il ritmo o ti perdi."</p>
   </div>
   <div class="r-foto-col">
-    <div class="r-foto-reale r-foto-reale-small" onclick="apriLightbox('immagini/cuba-capitolio.jpg')">
-      <img src="immagini/cuba-capitolio.jpg" alt="Il Capitolio, L'Avana" class="r-foto-img">
-      <div class="r-foto-copyright">© Geo-POPlitica 2026</div>
-    </div>
-    <div class="r-foto-caption"><span>Il Capitolio, L'Avana.</span><span>Foto: Geo-POPlitica</span></div>
+    <div class="r-foto-placeholder r-fp-caldo">foto: ramón al volante, caracas attraverso il finestrino</div>
+    <div class="r-foto-caption"><span>Ramón, tassista da trent'anni.</span><span>Foto: B. Baci</span></div>
   </div>
 </div>
 
@@ -322,12 +313,6 @@ Racconti in prosa, reportage fotografici, atmosfere dal mondo. Puoi mescolare i 
 <p>In un vicolo di San Agustín, un murale lungo venti metri raffigura una festa: tamburi, danza, cibo, bambini che corrono. È bello in modo disarmante. Chi l'ha dipinto non ha lasciato il nome. Non importa — il quartiere è il suo nome.</p>
 
 <div class="r-section-title">V. La partenza</div>
-
-<div class="r-foto-reale" onclick="apriLightbox('immagini/cuba-piazza.gif')">
-  <img src="immagini/cuba-piazza.gif" alt="Plaza Vieja, L'Avana" class="r-foto-img">
-  <div class="r-foto-copyright">© Geo-POPlitica 2026</div>
-  <div class="r-foto-caption"><span>Plaza Vieja, L'Avana. La vita continua.</span><span>Foto: Geo-POPlitica</span></div>
-</div>
 
 <div class="r-foto-dx">
   <div class="r-testo">

@@ -146,7 +146,8 @@ Il "gusto" di un'epoca, il trend del momento, le forme che verranno.<br>
 Sei interessato al ritorno dei vestiti tradizionali in Cina? Hai catalogato il packaging dei 7-Eleven in Giappone?</p>
 
 <p><strong>4. Visioni dal Mondo: lo sguardo e il luogo.</strong><br>
-Racconti in prosa, reportage fotografici, atmosfere. Puoi portarci in un posto che conosci bene o che hai appena scoperto. Puoi mescolare i generi ed essere soggettivo.</p>
+Racconti in prosa, reportage fotografici, atmosfere dal mondo.<br>
+Parlaci di luoghi che l'attualità ha messo sotto i riflettori, ma che vuoi raccontare dalla tua angolazione. Puoi mescolare i generi ed essere soggettivo.</p>
 
 <p><em>Le categorie sono confini che si mescolano tra loro, non sentirti in gabbia.</em></p>
 

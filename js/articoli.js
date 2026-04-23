@@ -139,7 +139,7 @@ Dall'eredità delle grandi tradizioni artistico-culturali alle scene underground
 Hai visto qualcosa che ti ha colpito (un film, un concerto, una mostra) e sai perché conta? Questo è il posto giusto.</p>
 
 <p><strong>2. Identità Umane: il volto.</strong><br>
-Ritratti d'autore, monografie, ma anche interviste. Chi i luoghi li abita, li sogna e ci lega a loro.</p>
+Ritratti d'autore, monografie, interviste: chi i luoghi li abita, li sogna e ci lega a loro.</p>
 
 <p><strong>3. Estetiche: lo stile della strada.</strong><br>
 Il "gusto" di un'epoca, il trend del momento, il packaging dei 7-Eleven, le forme che verranno.</p>
